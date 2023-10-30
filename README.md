@@ -1,6 +1,6 @@
 # Dolphine-Controller-Profiles
 ----------------------------------------------------------------------------------------------------
-This profiles have been mapped for the next Wii games using Pro Switch Controller using his Bluettoth functionallity 
+This profiles have been mapped for the next Wii games using Pro Switch Controller using his Bluetoth functionality 
 and with Nunchuk (N.) mode.
 Of course all this mapping can be personalized as you want. This is only my personalized and confortable map and I hope it can be usefull for someone :).
 ----------------------------------------------------------------------------------------------------
@@ -20,6 +20,6 @@ MARIO KART WII (Imitates Mario Kart 8 Deluxe Controls)
 - Pause (+) -> +
 
 - The aiming function have been mapped in Dolphin as the real WiiMote Aiming.
-- On the other hand, the oscilometer and giroscope are configured in the movement input tab and it looks like this:
+- On the other hand, the accelerometer and giroscope are configured in the movement input tab and it looks like this:
 ![image](https://github.com/DevEzro/Dolphine-Controller-Profiles/assets/92102267/8b944831-7905-4926-96db-e4048cf7d2e7)
 >--------------------------------------------------------------------------
